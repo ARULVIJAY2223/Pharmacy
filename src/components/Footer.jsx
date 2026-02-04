@@ -27,7 +27,7 @@ const Footer = () => {
                     </div>
 
                     <button className="w-full h-14 bg-[#25d3af] text-white font-bold text-[12px] rounded-full hover:bg-[#1ebf9e] transition-colors shadow-lg shadow-[#25d3af]/20 uppercase tracking-widest">
-                        Ask A Question
+                        Ask A Answer
                     </button>
                 </div>
             </div>
